@@ -23,3 +23,5 @@ With [lazy](https://github.com/folke/lazy.nvim)
 ```
 
 ## Screenshot
+
+![lualine-lsp-client-names](https://github.com/user-attachments/assets/ce599c24-825f-4e27-8ea3-dee9160134bd)
